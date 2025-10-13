@@ -31,7 +31,7 @@ If our work sparked your interest, check out our other works and resources!
 
 ## Code
 
-- [NeuralDEM] (https://github.com/Emmi-AI/NeuralDEM)
+- [NeuralDEM](https://github.com/Emmi-AI/NeuralDEM)
 - [UPT tutorial](https://github.com/BenediktAlkin/upt-tutorial)
 
 
