@@ -12,6 +12,7 @@ The [tutorial.ipynb](https://github.com/Emmi-AI/anchored-branched-universal-phys
 
 We recommend checking it out yourself in an interactive [Google Colab](https://colab.research.google.com/github/Emmi-AI/anchored-branched-universal-physics-transformers/blob/main/tutorial.ipynb) runtime.
 
+**Update** (2026.01): Emmi AI released the Noether Framework. The full AB-UPT training code is part of the [framework tutorial](https://github.com/Emmi-AI/noether/blob/main/tutorial/README.MD).
 # Further resources
 
 If our work sparked your interest, check out our other works and resources!
@@ -32,6 +33,7 @@ If our work sparked your interest, check out our other works and resources!
 
 - [NeuralDEM](https://github.com/Emmi-AI/NeuralDEM)
 - [UPT tutorial](https://github.com/BenediktAlkin/upt-tutorial)
+- [Full AB-UPT training tutorial](https://github.com/Emmi-AI/noether/blob/main/tutorial/README.MD)
 
 # Citation
 
